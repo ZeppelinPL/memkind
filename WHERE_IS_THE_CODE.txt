@@ -1,0 +1,4 @@
+'dev' branch has been abandoned.
+All present code development happens on 'master' branch now.
+
+Please rebase your development branch to 'master' now.
